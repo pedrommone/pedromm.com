@@ -36,3 +36,9 @@ a {
 a:hover, a:active {
   text-decoration: underline;
 }
+
+span {
+  display: block;
+  font-size: 2em;
+  font-weight: bold;
+}
